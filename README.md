@@ -1,5 +1,5 @@
 # HypixelAuctions
 
-This is the rushed backend of the hypixel auctions. (very messy i know).
+This is a backup/fork of jtagt/HypixelAuctions!
 
-**If used credit would be appreciated. No support will be provided.**
+**Credit to @jtagt**
